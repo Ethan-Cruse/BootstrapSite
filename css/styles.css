@@ -91,15 +91,15 @@ h3 {
 /* Testimonials */
 
 #testimsonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color: #fff;
 }
 
 .test-Img {
-  width:15%;
-  border-radius:100%;
+  width:200px;
+  height:200px;
+  border-radius:75%;
   margin: 20px;
 }
 
@@ -112,4 +112,20 @@ h3 {
 .press-Img {
   width:15%;
   margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Cards */
+
+#pricing {
+  padding: 100px;
+}
+
+
+.card {
+  height: 100%;
+  text-align: center;
 }
