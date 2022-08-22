@@ -138,6 +138,22 @@ h3 {
   text-align: center;
 }
 
+/* footer */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  font-family: Montserrat-black;
+  padding-top: 3%;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
 
 /* Breakpoints */
 
@@ -152,8 +168,5 @@ h3 {
  #title {
   text-align: center;
  }
-
- 
-
 }
   
