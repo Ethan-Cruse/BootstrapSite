@@ -137,3 +137,23 @@ h3 {
   height: 100%;
   text-align: center;
 }
+
+
+/* Breakpoints */
+
+@media (max-width: 1030px) {
+ 
+  .title-image {
+    position: static;
+    transform:rotate(0);
+ }
+
+
+ #title {
+  text-align: center;
+ }
+
+ 
+
+}
+  
